@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x52e4625eb1442c75bcf56aeda493bceef4497341",
-  "SCAN_LINK": "https://etherscan.io/address/0x52e4625eb1442c75bcf56aeda493bceef4497341",
+  "CONTRACT_ADDRESS": "0x76E8cDD04Cb9488728C67a8DC27796fCA73C97b6",
+  "SCAN_LINK": "https://etherscan.io/address/0x76E8cDD04Cb9488728C67a8DC27796fCA73C97b6",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Trippy MoAIs",
   "SYMBOL": "TMOAIS",
