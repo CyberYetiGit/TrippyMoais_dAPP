@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x52e4625eb1442c75bcf56aeda493bceef4497341",
+  "SCAN_LINK": "https://etherscan.io/address/0x52e4625eb1442c75bcf56aeda493bceef4497341",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Trippy MoAIs",
+  "SYMBOL": "TMOAIS",
+  "MAX_SUPPLY": 3330,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 134586,
+  "MAX_PER_TX": 5,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/trippymoais",
+  "Telegram": "https://",
+  "Discord": "https://discord.gg/J9qwnQWVQb",
+  "Twitter": "https://twitter.com/TheMoAIs_NFT",
+  "SHOW_BACKGROUND": false
+}
